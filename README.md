@@ -2,7 +2,7 @@
 
 > Turn your dream game concept into an instant, playable HTML5 browser game. Built for Pollinations AI Quest [#20021](https://github.com/pollinations/pollinations/issues/20021).
 
-[![Made with pollinations.ai](https://pollinations.ai/badges/made_with_pollinations_cyan.svg)](https://pollinations.ai)
+[![Made with pollinations.ai](https://raw.githubusercontent.com/pollinations/pollinations/main/packages/ui/src/brand/badge-made-with.svg)](https://pollinations.ai/?ref=badge)
 
 **Live Demo:** [https://lekezoa.github.io/dream-game-ai/](https://lekezoa.github.io/dream-game-ai/)
 
